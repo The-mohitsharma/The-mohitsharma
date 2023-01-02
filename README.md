@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohitsharmabr" target="blank"><img src="https://img.shields.io/twitter/follow/mohitsharmabr?logo=twitter&style=for-the-badge" alt="mohitsharmabr" /></a> </p>
 
-- 🔭 I’m currently working on [ML Android App to investigating the use of image/video implanting GAN models on smartphones.](https://github.com/The-mohitsharma/MASK-Classifier-App,https://github.com/The-mohitsharma/BIRD-Classifier-App)
+- 🔭 Currently worked on [ML Android App to investigating the use of image/video implanting GAN models on smartphones.](https://github.com/The-mohitsharma/MASK-Classifier-App,https://github.com/The-mohitsharma/BIRD-Classifier-App)
 
 - 🌱 I’m currently learning **DSA :&: Android development.**
 
