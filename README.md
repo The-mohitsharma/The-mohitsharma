@@ -39,7 +39,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-mohitsharma&show_icons=true&locale=en&layout=compact" alt="the-mohitsharma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-mohitsharma&show_icons=true&locale=en" alt="the-mohitsharma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-mohitsharma&show_icons=true&theme=radical" alt="the-mohitsharma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-mohitsharma&" alt="the-mohitsharma" /></p>
 
