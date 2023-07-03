@@ -10,6 +10,8 @@
 
 <p align="left"> <a href="https://twitter.com/im_sharmajii" target="blank"><img src="https://img.shields.io/twitter/follow/im_sharmajii?logo=twitter&style=for-the-badge" alt="im_sharmajii" /></a> </p>
 
+- 🔭 Currently i am **"Building a Revolutionary Farm App"**
+
 - 🌱 I’m currently learning ** React-native && Java-script**
 
 - 👯 I’m looking to collaborate on ** Android apps projects.**
